@@ -5,7 +5,7 @@
 <textarea onkeyup="countDouw(this.value)" id="text"></textarea>
 ```
 
-```JAVASCRIP
+```JAVASCRIPT
 function countDouw(v) {
     quantity = 10;
     total = v.length;
@@ -18,6 +18,6 @@ function countDouw(v) {
 }
 ```
 
-> Por m18web
+> By m18web
 
 [Site](https://m18web.com.br)
