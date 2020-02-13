@@ -1,4 +1,4 @@
-# Conut Down With Pure JavaScrip
+# Conut Down With Pure JavaScript
 
 ```HTML
 <span id="countdown">10</span> Restantes <br>
